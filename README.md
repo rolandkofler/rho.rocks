@@ -1,4 +1,4 @@
-# RHO.ROCKS
+# rho.rocks
 ## Bright RChain Insights
 
 1. API First
