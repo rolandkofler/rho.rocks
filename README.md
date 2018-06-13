@@ -1,5 +1,5 @@
 # RHO.ROCKS
-## RChain Insights
+## Bright RChain Insights
 
 1. API First
 2. Search, Navigate, Drill
